@@ -35,5 +35,11 @@
     "**/.vscode",
     "**/.vscode/**"
   ],
-  "C_Cpp_Runner.useAddressSanitizer": false
+  "C_Cpp_Runner.useAddressSanitizer": false,
+  "files.associations": {
+    "__locale": "c",
+    "system_error": "c",
+    "typeinfo": "c",
+    "string.h": "c"
+  }
 }

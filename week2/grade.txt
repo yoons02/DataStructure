@@ -1,0 +1,7 @@
+Anne	20001001	A
+Betty	20001002	B
+Cindy	20001003	C
+Diane	20001004	D
+Kim     20211122    A
+LEE     20221231    C
+Can     20234124    D
