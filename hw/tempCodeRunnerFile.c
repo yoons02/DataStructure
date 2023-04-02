@@ -1,0 +1,1 @@
+    reduce(test, reduced);
