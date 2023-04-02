@@ -34,3 +34,27 @@ int main() {
         } 
     }
 }
+
+void push(int e){
+    if (top >= MAX_SIZE-1) { 
+        printf("Stack is Full\n");
+    }
+    else{
+        stack[++top] = e;
+    }
+}
+
+Element pop(){
+    if (top == -1) { 
+        printf("Stack is Empty\n"); 
+    }
+    else{
+        return stack[top--];
+    }
+}
+
+void stack_show(){
+    for (int i = 0; i < top+1; i++){
+        printf("%c ", stack[i]);
+    }
+}

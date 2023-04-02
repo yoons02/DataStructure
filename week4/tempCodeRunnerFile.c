@@ -1,1 +1,1 @@
-
+printf("ERROR : Devided by 0\n");

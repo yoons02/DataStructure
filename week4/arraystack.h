@@ -12,37 +12,8 @@ typedef char Element;
 Element stack[MAX_SIZE]; 
 int top = -1;
 
-int count = 0;
+void push(int e);
 
-void push(Element e){
-    if(count < 9){
-        stack[count] = e;
-        count++;
-        printf("%c", count);
-    }
-    else{
-        printf("Stack is Full\n");
-    }
-}
+Element pop();
 
-Element pop(){
-    if(count > 0){
-        printf("%c", stack[count-1]);
-        stack[count-1] = '\0';
-        count--;
-    }
-    else{
-        printf("Stack is Empty\n");
-    }
-}
-
-void stack_show(){
-    if (count >= 0){
-        for (int i = 0; i < count; i++){
-            printf("%c ", stack[i]);
-        }
-    }
-    else{
-        printf("Stack is Empty\n");
-    }
-}
+void stack_show();
