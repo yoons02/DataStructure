@@ -40,6 +40,8 @@
     "__locale": "c",
     "system_error": "c",
     "typeinfo": "c",
-    "string.h": "c"
+    "string.h": "c",
+    "array": "c",
+    "vector": "c"
   }
 }

@@ -19,8 +19,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/yoons/DataStructure/week4",
-      "program": "/Users/yoons/DataStructure/week4/build/Debug/outDebug"
+      "cwd": "/Users/yoons/DataStructure/week5",
+      "program": "/Users/yoons/DataStructure/week5/build/Debug/outDebug"
     }
   ]
 }
