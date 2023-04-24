@@ -42,6 +42,7 @@
     "typeinfo": "c",
     "string.h": "c",
     "array": "c",
-    "vector": "c"
+    "vector": "c",
+    "stdio.h": "c"
   }
 }
