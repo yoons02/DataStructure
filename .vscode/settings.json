@@ -44,5 +44,6 @@
     "array": "c",
     "vector": "c",
     "stdio.h": "c"
-  }
+  },
+  "C_Cpp_Runner.showCompilationTime": false
 }
