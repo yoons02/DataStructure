@@ -19,8 +19,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/yoons/DataStructure/TeamProject",
-      "program": "/Users/yoons/DataStructure/TeamProject/build/Debug/outDebug"
+      "cwd": "/Users/yoons/DataStructure/hw4",
+      "program": "/Users/yoons/DataStructure/hw4/build/Debug/outDebug"
     }
   ]
 }

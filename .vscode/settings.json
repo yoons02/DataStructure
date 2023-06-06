@@ -43,7 +43,9 @@
     "string.h": "c",
     "array": "c",
     "vector": "c",
-    "stdio.h": "c"
+    "stdio.h": "c",
+    "spanning_tree.h": "c",
+    "stdlib.h": "c"
   },
   "C_Cpp_Runner.showCompilationTime": false
 }

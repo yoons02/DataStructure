@@ -1,0 +1,1 @@
+write_tree_edges(&g, visited);

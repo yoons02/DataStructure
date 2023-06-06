@@ -19,6 +19,7 @@ void main() {
                 printf("\n key and data: ");
                 scanf("%d %c", &key, &data);
                 getchar();
+                getchar();
                 item.key = key;
                 item.data = data;
                 insert_max_heap(item);
